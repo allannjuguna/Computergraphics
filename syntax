@@ -1,1 +1,0 @@
-gcc lesson2.c -o outfile -lGL -lGLU -lglut && sleep 1 && ./outfile
